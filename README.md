@@ -17,6 +17,10 @@ without authenticating them yourself. The participant authenticates the next una
 ### Results
 The proposed group mutual authentication algorithm was implemented for the distributed cryptographic group communication chat mpOTR -https://bitbucket.org/Enr1g/p2p_mpotr.js/src, developed in Laborotory of Information Security at Moscow State Universtiry [2]. To evaluate experimentally the convergence time of the algorithm, testing was carried out for a different number of participants and its comparative analysis with a simple implementation of the millionaire socialist protocol for a group, in which each participant authenticates each. An experimental study showed the effectiveness of using the proposed circular authentication protocol, the gain in speed is about 3 times compared to another algorithm. An analysis of the stability of such an authentication protocol to the most obvious attacks was also carried out.
 
+
+![image](https://user-images.githubusercontent.com/24796736/216080526-2d5e1012-7255-459e-aed2-dcfc2f8c10d4.png)
+
+
 ----
 
 В работе рассматривается задача взаимной аутентификации
